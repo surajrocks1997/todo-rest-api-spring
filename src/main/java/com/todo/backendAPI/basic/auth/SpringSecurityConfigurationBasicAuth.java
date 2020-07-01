@@ -1,4 +1,4 @@
-package com.todo.backendAPI.todoRestApi.basic.auth;
+package com.todo.backendAPI.basic.auth;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpMethod;

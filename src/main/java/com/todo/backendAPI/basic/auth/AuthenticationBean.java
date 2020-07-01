@@ -1,4 +1,4 @@
-package com.todo.backendAPI.todoRestApi.basic.auth;
+package com.todo.backendAPI.basic.auth;
 
 public class AuthenticationBean {
 	
